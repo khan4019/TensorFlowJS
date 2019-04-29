@@ -18,3 +18,7 @@ you pass a number and pass a number and then activate to a concultion
 Secret of ML is back propagation. 
 
 mobile net. 
+
+Loss function: 
+you need to know how wrong the model is: 
+This is the test you need to know 
