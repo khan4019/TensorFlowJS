@@ -1,0 +1,20 @@
+TensorFlow is the most popular 
+Scikit-learn is another option 
+
+We will use TensorFlow.js 
+
+
+Tensor flow.js rewrite tensor flow in the 
+there is a node version of it as well.
+
+Tensor Flow jas has two parts
+1. Core API
+2. Layers API 
+
+
+Neural Networks
+you pass a number and pass a number and then activate to a concultion
+
+Secret of ML is back propagation. 
+
+mobile net. 
